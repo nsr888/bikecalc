@@ -12,8 +12,6 @@ A lightweight command-line gear inch calculator for bicycle gearing, written in 
 $ ./bikecalc.sh
 ```
 
-# How it works
-
 Script will prompt you to enter values and will display table with gear inches
 for 3 chainrings and all cogs.
 
