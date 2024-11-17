@@ -2,6 +2,10 @@
 
 A lightweight command-line gear inch calculator for bicycle gearing, written in Bash, designed for cyclists and developers.
 
+# Requirements
+
+- Bash v4.4 or higher
+
 # Usage
 
 ```bash
